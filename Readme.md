@@ -8,9 +8,6 @@
 
 
 ## :page_with_curl: Description
-Containing
-- Python Functions
-
 This Repository contains the neccessary Functions to Aggregate the Dataset and visualize them With plots and NetworkX.
 
 ![alt text](https://github.com/nussi1000/py-ffhs-sema-dataanalysis/blob/master/Poster.png?raw=true)
